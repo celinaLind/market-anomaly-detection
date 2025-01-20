@@ -10,7 +10,8 @@ This project involves building an anomaly detection system that serves as an ear
 
 ##### Future
 **Milestone 2:** Enhance the system by proposing a data-driven investment strategy based on the model’s predictions, focusing on minimizing losses or maximizing returns.
-       - Incorporate [RSI](https://rbdundas.medium.com/calculate-relative-strength-index-rsi-and-chart-with-candles-using-python-pandas-and-matplotlib-f58d926249ac
+- Incorporate [RSI](https://rbdundas.medium.com/calculate-relative-strength-index-rsi-and-chart-with-candles-using-python-pandas-and-matplotlib-f58d926249ac)
+       
 **Milestone 3:** Design and integrate an AI-driven bot to explain the investment strategy to end users, making it accessible and actionable.
 
 ## Skills Used:
